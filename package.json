@@ -1,0 +1,19 @@
+{
+  "name": "rwfile",
+  "version": "1.0.0",
+  "description": "了不起的nodejs实例，读写文件",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yf287/rwfile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yf287/rwfile/issues"
+  },
+  "homepage": "https://github.com/yf287/rwfile#readme"
+}
